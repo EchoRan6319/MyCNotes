@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\EchoRan\\Documents\\Projects\\Microsoft Visual Studio\\Test20250226\\",
+  "WorkspaceRootPath": "D:\\EchoRan\\Documents\\Projects\\Microsoft Visual Studio\\Test20250226\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29F64D63-EA9C-4DB8-A6A8-1FD208A47F51}|Test20250226\\Test20250226.vcxproj|E:\\EchoRan\\Documents\\Projects\\Microsoft Visual Studio\\Test20250226\\Test20250226\\\u6E90.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{29F64D63-EA9C-4DB8-A6A8-1FD208A47F51}|Test20250226\\Test20250226.vcxproj|solutionrelative:Test20250226\\\u6E90.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EchoRan\\Documents\\Projects\\Microsoft Visual Studio\\Test20250226\\Test20250226\\\u6E90.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Test20250226\\\u6E90.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,14 +20,18 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "\u6E90.c",
-              "DocumentMoniker": "E:\\EchoRan\\Documents\\Projects\\Microsoft Visual Studio\\Test20250226\\Test20250226\\\u6E90.c",
+              "DocumentMoniker": "D:\\EchoRan\\Documents\\Projects\\Microsoft Visual Studio\\Test20250226\\Test20250226\\\u6E90.c",
               "RelativeDocumentMoniker": "Test20250226\\\u6E90.c",
-              "ToolTip": "E:\\EchoRan\\Documents\\Projects\\Microsoft Visual Studio\\Test20250226\\Test20250226\\\u6E90.c",
+              "ToolTip": "D:\\EchoRan\\Documents\\Projects\\Microsoft Visual Studio\\Test20250226\\Test20250226\\\u6E90.c",
               "RelativeToolTip": "Test20250226\\\u6E90.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvyoAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-02-26T05:41:49.695Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
