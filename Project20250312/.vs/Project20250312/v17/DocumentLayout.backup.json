@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EchoRan\\Documents\\Projects\\Microsoft Visual Studio\\Project20250312\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29227192-19F6-4A8C-A738-6AF88E92CCC7}|Project20250312\\Project20250312.vcxproj|D:\\EchoRan\\Documents\\Projects\\Microsoft Visual Studio\\Project20250312\\Project20250312\\\u6E90.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29227192-19F6-4A8C-A738-6AF88E92CCC7}|Project20250312\\Project20250312.vcxproj|solutionrelative:Project20250312\\\u6E90.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.c",
+              "DocumentMoniker": "D:\\EchoRan\\Documents\\Projects\\Microsoft Visual Studio\\Project20250312\\Project20250312\\\u6E90.c",
+              "RelativeDocumentMoniker": "Project20250312\\\u6E90.c",
+              "ToolTip": "D:\\EchoRan\\Documents\\Projects\\Microsoft Visual Studio\\Project20250312\\Project20250312\\\u6E90.c",
+              "RelativeToolTip": "Project20250312\\\u6E90.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-20T06:15:57.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
